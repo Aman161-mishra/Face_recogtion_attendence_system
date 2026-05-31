@@ -1,0 +1,14 @@
+"""
+smart_attendance_app.py
+=======================
+Smart Student Attendance System — Single unified application.
+
+All modules (database, dataset capture, training, attendance, viewer)
+are combined into one file with a polished tabbed Tkinter GUI.
+
+Run:
+    python smart_attendance_app.py
+
+Requirements:
+    pip install opencv-python opencv-contrib-python numpy
+"""
